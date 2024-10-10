@@ -1,0 +1,5 @@
+22:02:11.668 [main] INFO  com.phonebook.TestBase -- ********* Testing in Progress *********
+22:02:13.375 [main] INFO  com.phonebook.TestBase -- Test is started: [isHomeComponentPresentTest]
+22:02:13.413 [main] INFO  com.phonebook.TestBase -- Test is started: with data: []
+22:02:13.413 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [isHomeComponentPresentTest]
+22:02:13.414 [main] INFO  com.phonebook.TestBase -- Test is ended: [isHomeComponentPresentTest]

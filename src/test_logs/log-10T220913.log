@@ -1,0 +1,16 @@
+22:09:13.427 [main] INFO  com.phonebook.TestBase -- ********* Testing in Progress *********
+22:09:14.999 [main] INFO  com.phonebook.TestBase -- Test is started: [addContactPositiveWODescriptionTest]
+22:09:15.061 [main] INFO  com.phonebook.core.BaseHelper -- [By.xpath: //a[.='LOGIN']] is pressed
+22:09:15.110 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: email] is pressed
+22:09:15.229 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: password] is pressed
+22:09:15.327 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: login] is pressed
+22:09:16.123 [main] INFO  com.phonebook.core.BaseHelper -- [By.xpath: //a[.='ADD']] is pressed
+22:09:16.174 [main] INFO  com.phonebook.core.BaseHelper -- [By.xpath: //input[@placeholder='Name']] is pressed
+22:09:16.272 [main] INFO  com.phonebook.core.BaseHelper -- [By.xpath: //input[@placeholder='Last Name']] is pressed
+22:09:16.369 [main] INFO  com.phonebook.core.BaseHelper -- [By.xpath: //input[@placeholder='Phone']] is pressed
+22:09:16.471 [main] INFO  com.phonebook.core.BaseHelper -- [By.xpath: //input[@placeholder='email']] is pressed
+22:09:16.574 [main] INFO  com.phonebook.core.BaseHelper -- [By.xpath: //input[@placeholder='Address']] is pressed
+22:09:16.664 [main] INFO  com.phonebook.core.BaseHelper -- [By.xpath: //b[.='Save']] is pressed
+22:09:17.128 [main] INFO  com.phonebook.TestBase -- Test is started: with data: []
+22:09:17.129 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [addContactPositiveWODescriptionTest]
+22:09:17.129 [main] INFO  com.phonebook.TestBase -- Test is ended: [addContactPositiveWODescriptionTest]

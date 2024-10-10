@@ -1,0 +1,9 @@
+21:48:19.822 [Test worker] INFO  com.phonebook.TestBase -- ********* Testing in Progress *********
+21:48:21.369 [Test worker] INFO  com.phonebook.TestBase -- Test is started: [loginExistedUserPositiveTest1]
+21:48:22.532 [Test worker] INFO  com.phonebook.TestBase -- Test is started: with data: []
+21:48:22.533 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest1]
+21:48:22.533 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest1]
+21:48:22.534 [Test worker] INFO  com.phonebook.TestBase -- Test is started: [loginExistedUserPositiveTest2]
+21:48:23.110 [Test worker] INFO  com.phonebook.TestBase -- Test is started: with data: [password=Password1$, email=forex1@gmail.com]
+21:48:23.110 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest2]
+21:48:23.110 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest2]

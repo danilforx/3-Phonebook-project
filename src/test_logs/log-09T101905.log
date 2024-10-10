@@ -1,0 +1,4 @@
+10:19:07.730 [main] INFO  com.phonebook.core.BaseHelper -- [By.xpath: //a[.='LOGIN']] is pressed
+10:19:07.780 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: email] is pressed
+10:19:07.899 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: password] is pressed
+10:19:07.998 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: login] is pressed

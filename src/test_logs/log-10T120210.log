@@ -1,0 +1,8 @@
+12:02:10.536 [main] INFO  com.phonebook.TestBase -- ********* Testing in Progress *********
+12:02:12.174 [main] INFO  com.phonebook.TestBase -- Test is started: [createAccountPositiveTest1]
+12:02:13.199 [main] INFO  com.phonebook.TestBase -- Test is started: with data: []
+12:02:13.211 [main] WARN  com.phonebook.core.BaseHelper -- Alert has text: [User already exist]
+12:02:13.215 [main] WARN  com.phonebook.TestBase -- Alert was present and has been accepted.
+12:02:13.443 [main] ERROR com.phonebook.TestBase -- Test is FAILED: [createAccountPositiveTest1], Screenshot: [C:\QA_Project\3_PhoneBook\src\test_screenshots\screen-1728554533215.png]
+12:02:13.444 [main] INFO  com.phonebook.TestBase -- Test is ended: [createAccountPositiveTest1]
+12:02:13.447 [main] INFO  com.phonebook.TestBase -- ********* All Test End *********

@@ -1,0 +1,6 @@
+22:08:00.613 [main] INFO  com.phonebook.TestBase -- ********* Testing in Progress *********
+22:08:02.055 [main] INFO  com.phonebook.TestBase -- Test is started: [createOneAndDeleteOneContactTest]
+22:08:02.122 [main] INFO  com.phonebook.core.BaseHelper -- [By.xpath: //a[.='LOGIN']] is pressed
+22:08:02.171 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: email] is pressed
+22:08:02.296 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: password] is pressed
+22:08:02.407 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: login] is pressed
