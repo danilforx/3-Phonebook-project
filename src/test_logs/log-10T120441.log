@@ -1,6 +1,0 @@
-12:04:42.028 [main] INFO  com.phonebook.TestBase -- ********* Testing in Progress *********
-12:04:43.550 [main] INFO  com.phonebook.TestBase -- Test is started: [createAccountNegativeTest]
-12:04:44.885 [main] WARN  com.phonebook.core.BaseHelper -- Alert has text: [User already exist]
-12:04:44.904 [main] INFO  com.phonebook.TestBase -- Test is started: with data: []
-12:04:44.904 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [createAccountNegativeTest]
-12:04:44.904 [main] INFO  com.phonebook.TestBase -- Test is ended: [createAccountNegativeTest]

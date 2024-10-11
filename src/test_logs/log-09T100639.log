@@ -1,6 +1,0 @@
-10:06:39.571 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
-  C:\Users\Admin\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-10:06:41.157 [main] INFO  com.phonebook.core.BaseHelper -- [By.xpath: //a[.='LOGIN']] is pressed
-10:06:41.205 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: password] is pressed
-10:06:41.308 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: login] is pressed

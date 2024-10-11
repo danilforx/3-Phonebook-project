@@ -1,5 +1,0 @@
-21:47:29.305 [main] INFO  com.phonebook.TestBase -- ********* Testing in Progress *********
-21:47:30.867 [main] INFO  com.phonebook.TestBase -- Test is started: [loginExistedUserPositiveTest1]
-21:47:31.979 [main] INFO  com.phonebook.TestBase -- Test is started: with data: []
-21:47:31.979 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest1]
-21:47:31.979 [main] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest1]
